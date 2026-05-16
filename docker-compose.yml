@@ -1,0 +1,15 @@
+services:
+
+  llm-evaluator:
+
+    build: .
+
+    container_name: llm_evaluation_harness
+
+    env_file:
+      - .env
+
+    volumes:
+      - .:/app
+
+    command: python src/main.py

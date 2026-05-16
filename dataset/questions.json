@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "New Delhi",
+    "phrasings": [
+      "What is the capital of India?",
+      "Can you tell me the capital city of India?",
+      "Which city serves as India's capital?"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "math",
+    "difficulty": "easy",
+    "correct_answer": "300",
+    "phrasings": [
+      "If a train travels 60 km in 5 hours, how far does it travel?",
+      "A train moves 60 km every hour for 5 hours. Total distance?",
+      "Calculate the distance traveled in 5 hours at 60 km/h."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "Pacific Ocean",
+    "phrasings": [
+      "What is the largest ocean on Earth?",
+      "Name the biggest ocean in the world.",
+      "Which ocean covers the largest area on Earth?"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "logic",
+    "difficulty": "medium",
+    "correct_answer": "8",
+    "phrasings": [
+      "What comes next in the sequence: 2, 4, 6, ?",
+      "Find the next number: 2, 4, 6.",
+      "Complete the pattern: 2, 4, 6, __"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "math",
+    "difficulty": "easy",
+    "correct_answer": "25",
+    "phrasings": [
+      "What is 5 multiplied by 5?",
+      "Calculate 5 × 5.",
+      "Find the product of 5 and 5."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "Mars",
+    "phrasings": [
+      "Which planet is called the Red Planet?",
+      "Name the Red Planet.",
+      "What planet is known as the Red Planet?"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "coding",
+    "difficulty": "medium",
+    "correct_answer": "def",
+    "phrasings": [
+      "Which keyword is used to define a function in Python?",
+      "How do you start a function definition in Python?",
+      "What Python keyword creates a function?"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "logic",
+    "difficulty": "medium",
+    "correct_answer": "Blue",
+    "phrasings": [
+      "What color is the sky on a clear day?",
+      "Name the color of a cloudless daytime sky.",
+      "Which color does the sky usually appear on a sunny day?"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "H2O",
+    "phrasings": [
+      "What is the chemical formula of water?",
+      "Write the molecular formula for water.",
+      "Which formula represents water?"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "math",
+    "difficulty": "easy",
+    "correct_answer": "50",
+    "phrasings": [
+      "What is half of 100?",
+      "Calculate 100 divided by 2.",
+      "Find 50% of 100."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "coding",
+    "difficulty": "medium",
+    "correct_answer": "list",
+    "phrasings": [
+      "Which Python data type stores multiple values?",
+      "What data structure in Python uses square brackets?",
+      "Which Python collection type is written using []?"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "logic",
+    "difficulty": "medium",
+    "correct_answer": "Tuesday",
+    "phrasings": [
+      "What day comes after Monday?",
+      "Which weekday follows Monday?",
+      "Name the next day after Monday."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "Mount Everest",
+    "phrasings": [
+      "What is the tallest mountain in the world?",
+      "Name the world's highest mountain.",
+      "Which mountain has the highest peak on Earth?"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "math",
+    "difficulty": "medium",
+    "correct_answer": "144",
+    "phrasings": [
+      "What is 12 squared?",
+      "Calculate 12 × 12.",
+      "Find the square of 12."
+    ]
+  },
+  {
+    "id": 15,
+    "category": "coding",
+    "difficulty": "medium",
+    "correct_answer": "print",
+    "phrasings": [
+      "Which Python function displays output?",
+      "How do you print text in Python?",
+      "Name the Python function used for output."
+    ]
+  },
+  {
+    "id": 16,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "Jupiter",
+    "phrasings": [
+      "Which is the largest planet in the solar system?",
+      "Name the biggest planet in our solar system.",
+      "What planet has the greatest size in the solar system?"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "logic",
+    "difficulty": "medium",
+    "correct_answer": "7",
+    "phrasings": [
+      "How many days are there in one week?",
+      "Count the days in a week.",
+      "What is the total number of weekdays and weekend days in one week?"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "math",
+    "difficulty": "easy",
+    "correct_answer": "81",
+    "phrasings": [
+      "What is 9 multiplied by 9?",
+      "Calculate 9 × 9.",
+      "Find the product of 9 and 9."
+    ]
+  },
+  {
+    "id": 19,
+    "category": "coding",
+    "difficulty": "medium",
+    "correct_answer": ".py",
+    "phrasings": [
+      "What file extension is used for Python files?",
+      "Which extension identifies Python scripts?",
+      "Name the standard extension for Python programs."
+    ]
+  },
+  {
+    "id": 20,
+    "category": "factual",
+    "difficulty": "easy",
+    "correct_answer": "Oxygen",
+    "phrasings": [
+      "Which gas do humans need to breathe?",
+      "Name the gas essential for human respiration.",
+      "What gas is required for breathing?"
+    ]
+  }
+]
